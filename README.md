@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FedorMelnikov
-- 👀 I’m interested in Python programming
+- 👋 Hi, I’m @FedorMelnikov from Armenia
+- 👀 I’m interested in Python programming 
 - 🌱 I’m currently learning Python
 
 
